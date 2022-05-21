@@ -1,4 +1,4 @@
-### Hi there, Swarnava Laha 👋
+### Hi there, I'm Swarnava Laha 👋
 
 ## I'm a Student, Developer, and Freelancer!
 - 🔭 I’m currently studying at Vellore Institute of Technology!
