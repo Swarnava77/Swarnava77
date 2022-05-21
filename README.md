@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Freelancer!
 - 🔭 I’m currently studying at Vellore Institute of Technology!
-- 👯 I’m looking to collaborate with other Github projects
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and chitchat with friends!
 
